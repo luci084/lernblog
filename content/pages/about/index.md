@@ -1,13 +1,11 @@
 +++
-title = "About me"
+title = "Über mich"
 draft = false
-description = ""
 image = ""
+description = ""
 +++
-![](/img/default-author.jpg)
+![](https://www.voucherwonderland.com/reisemagazin/wp-content/uploads/2019/04/Italienische-Landschaft-Toskana.jpeg)
 
-## My Name
+Ich heiße Luciano und bin 17 Jahre. 
 
-mail@example.org
-
-Here should be some info about me...
+Im Moment absolviere ich meine Ausbildung in der Wirtschaftsmittelschule Bern.
