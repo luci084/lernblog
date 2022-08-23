@@ -11,6 +11,6 @@ An diesem Tag waren die ersten vier Lektionen im WEB Unterricht. Der Lehrer hat 
 
 Als erstes hat uns der Lehrer gezeigt mit welcher Plattform die Seite gemacht wird. Das ganze haben wir in einer zweier Gruppe gemacht. Nach dem Input vom Lehrer mussten wir für unsere Webseite Bilder machen. Und da es eine Seite von einem Blumenladen werden sollte, haben wir Bilder von Blumen gemacht. 
 
-Als nächstes haben wir von alleine herausfinden müssen wie die Seite für die Herstellung der Webseite funktioniert und haben schlussendlich unsere Website designt. 
+Als nächstes haben wir mit dem Programm Carrd.co unsere Website designt und veröffentlicht. 
 
 Die Webseite ist uns eigentlich ziemlich gut gelungen. Das einzige Problem war das alles zentriert war auf der Webseite und wir wussten nicht wie wir das ändern konnten. Aber Tagesziel haben wir erfüllt. Wir haben eine Webseite erstellt und ins Netz gestellt.
