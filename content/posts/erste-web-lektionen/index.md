@@ -5,7 +5,7 @@ draft = false
 pinned = false
 description = ""
 +++
-16. August:
+16. August 2022:
 
 An diesem Tag waren die ersten vier Lektionen im WEB Unterricht. Der Lehrer hat uns eingeleitet und erklärt was wir am heutigen Tag machen werden. Das Tagesziel war, eine Webseite mit dem Thema Blumenladen ins Netz zu stellen. 
 
