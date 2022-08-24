@@ -10,4 +10,4 @@ Ich heiße Luciano bin 17 Jahre und wohne in Wabern. \
 Im Moment absolviere ich meine Ausbildung in der Wirtschaftsmittelschule Bern.
 
 Social Media:\
-[Instagramm](https://www.instagram.com/luci_3084/)
+[Instagram](https://www.instagram.com/luci_3084/)
