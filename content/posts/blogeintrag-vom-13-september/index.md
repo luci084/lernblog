@@ -14,6 +14,6 @@ Außerdem habe ich mit Andri der ganzen Klasse unser Projekt vorgestellt und erf
 
 Unser gemeinsame nächste Schritt ist es zu überlegen wie wir unser Produkt vermarkten. Dafür müssen wir eine Marketingstrategie entwickeln um zu schauen wie wir unser Produkt am besten unter die Leute bringen.
 
-U﻿nsere Hauptfrage ist: Mit welchen Mitteln bringen wir unser Produkt an die Leute?
+Unsere Hauptfrage ist: Mit welchen Mitteln bringen wir unser Produkt an die Leute?
 
 ![](101563331.avif "Bild zum Thema Marketing")
