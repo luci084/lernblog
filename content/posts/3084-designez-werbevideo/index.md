@@ -3,6 +3,7 @@ title = "3084 Designez Werbevideo"
 date = "2023-05-09"
 draft = false
 pinned = false
+image = "microsoftteams-image-4-.png"
 description = "In diesem Blogeintrag stellen wir unser Unternehmen vor. "
 +++
 3﻿084 Designez!
